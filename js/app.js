@@ -20,6 +20,12 @@ var allFeeds = [
     }, {
         name: 'Linear Digressions',
         url: 'http://feeds.feedburner.com/udacity-linear-digressions'
+    }, {
+        name: 'Web Field Manual Twitter',
+        url: 'https://twitrss.me/twitter_user_to_rss/?user=WebFieldManual'
+    }, {
+        name: 'Seahawks News',
+        url:  'http://www.seahawks.com/rss/article'
     }
 ];
 
