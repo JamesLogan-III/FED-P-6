@@ -1,3 +1,27 @@
+# Project 6 for the Udacity front-end nanodegree.
+
+## Installation Instructions
+
+* Download or fork the code from [GitHub](https://github.com/JamesLogan-III/FED-P-6)
+* Open the index.html file to start the application
+
+## Sites/Tools Used
+
+### Tools
+
+* [Jasmine](http://jasmine.github.io/)
+* [Jasmine Matchers by Jamie Mason](https://github.com/JamieMason/Jasmine-Matchers)
+* [Jasmine Matcher Snippets for SublimeText](https://github.com/JamieMason/Jasmine-Matchers-Snippets)
+
+### References
+
+* https://github.com/JamieMason/Jasmine-Matchers#available-matchers
+* https://github.com/JamieMason/Jasmine-Matchers-Snippets
+* http://blog.bandzarewicz.com/blog/2012/03/08/jasmine-cheat-sheet/
+
+
+
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
